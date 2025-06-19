@@ -1,4 +1,4 @@
-# SmolXP (ARCHIVED)
+# SmolXPSmol_XP_LeninOSx86
 
 ## Archival Notice
 **This project has been archived.** This was just the result of me messing around with nLite for the first time. Someone can easily replicate what this project does within 5 minutes, and I also don't want to be the known as the person who slimmed Windows XP down as far as I could while making it still functional. I cannot believe that out of all of my projects, *this one* was the most popular. I also feel like deleting it but still deciding.
