@@ -1,9 +1,5 @@
 # SmolXPSmol_XP_LeninOSx86
 
-## Archival Notice
-**This project has been archived.** This was just the result of me messing around with nLite for the first time. Someone can easily replicate what this project does within 5 minutes, and I also don't want to be the known as the person who slimmed Windows XP down as far as I could while making it still functional. I cannot believe that out of all of my projects, *this one* was the most popular. I also feel like deleting it but still deciding.
-
-**If you want to see stuff that I actually put proper time and work into, then please look at my other projects.** This project is just really small modifications in nLite that anyone could do easily. It's nothing special or even anything impressive. **PLEASE**, I beg of you, go check out my other projects on my profile or either check out my best project so far, [LUM/MARINER](https://github.com/AFellowSpeedrunner/LUM-MARINER), which could do with some contributions.
 
 ## Description
 SmolXP is a compact version of Windows XP designed for use on low-performance computers or as a disposable operating system for testing purposes. Its small ISO and installation size make it suitable for use on older computers with limited resources. 
